@@ -1,4 +1,7 @@
 # 📥 Download Albahl Episode 1  
+
+![Albahl](assets/bd8.slider.01.gif)  
+
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ## 🌐 Play in Your Browser  
