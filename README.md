@@ -5,32 +5,32 @@
 _Available for Windows, Linux, Android, and now playable in your browser!_  
 
 ## 🌐 Play in Your Browser  
-🎮 **[Play Now](https://jacksonelfersbd8.github.io/ab2/)** – No download required!  
+🎮 **[Play Now](https://jacksonelfersbd8.github.io/ab1/)** – No download required!  
 
 ---
 
 ## 🖥️ Desktop Versions  
 | Platform | Download |
 |----------|----------|
-| 🪟 **Windows** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab2/raw/refs/heads/master/windows/albahl_1.zip) |
-| 🐧 **Linux** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab2/raw/refs/heads/master/linux/albahl_1.zip) |
+| 🪟 **Windows** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/windows/albahl_1.zip) |
+| 🐧 **Linux** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/linux/albahl_1.zip) |
 
 ## 📱 Mobile Version  
 | Platform | Download |
 |----------|----------|
-| 🤖 **Android** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab2/raw/refs/heads/master/android/albahl_1.zip) |
+| 🤖 **Android** | [Download albahl_1.zip](https://github.com/jacksonelfersbd8/ab1/raw/refs/heads/master/android/albahl_1.zip) |
 
 ---
 
 ## 📜 Installation Instructions  
 ### 🖥️ Windows & Linux  
 1. Download the correct `.zip` file for your platform.  
-2. Extract the contents.  
+1. Extract the contents.  
 3. Run the executable file (`albahl_1.exe` for Windows, `albahl_1.x86_64` for Linux).  
 
 ### 📱 Android  
 1. Download the `.zip` file and extract it.  
-2. Install the `.apk` file (if included) or move the extracted folder to the correct directory.  
+1. Install the `.apk` file (if included) or move the extracted folder to the correct directory.  
 3. Run the game.  
 
 ---
